@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Viafont';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Viafont'), url('Viafont.woff') format('woff');
+}
+
+h1 {
+    font-family: 'Viafont';
+    font-weight: 200;
+    color: #0ccac4;
+}
